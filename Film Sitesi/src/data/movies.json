@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "rating": 8.8,
+    "year": 2010,
+    "genre": "Sci-Fi, Thriller",
+    "cast": [
+      { "name": "Leonardo DiCaprio", "photo": "https://www.google.com/imgres?q=dicaprio&imgurl=https%3A%2F%2Fb6s54eznn8xq.merlincdn.net%2FUploads%2FPeople%2Feb5b4aab-e211-436a-aafb-d8af31a0251e.jpg&imgrefurl=https%3A%2F%2Fbiletinial.com%2Ftr-tr%2Foyuncu%2Fleonardo-dicaprio&docid=HPFZXrx6FertPM&tbnid=vtRloSxDZ-uR3M&vet=12ahUKEwiNlqWs-OOJAxWKR_EDHawgLBEQM3oECGsQAA..i&w=600&h=900&hcb=2&ved=2ahUKEwiNlqWs-OOJAxWKR_EDHawgLBEQM3oECGsQAA" },
+      { "name": "Joseph Gordon-Levitt", "photo": "https://www.google.com/imgres?q=Joseph%20Gordon-Levitt&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTY3NTk0NDI3Ml5BMl5BanBnXkFtZTgwNDA3NjY0MjE%40._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0330687%2F&docid=kNpOLOlA3mbo0M&tbnid=ydVp8E6bUpS9KM&vet=12ahUKEwjR2rHN-OOJAxWPR_EDHQ2WA8cQM3oECBkQAA..i&w=1000&h=1441&hcb=2&ved=2ahUKEwjR2rHN-OOJAxWPR_EDHQ2WA8cQM3oECBkQAA" }
+    ],
+    "comments": [
+      { "user": "JohnDoe", "comment": "Amazing movie with a complex plot!" },
+      { "user": "JaneDoe", "comment": "A mind-bending experience!" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "rating": 9.0,
+    "year": 2008,
+    "genre": "Action, Crime, Drama",
+    "cast": [
+      { "name": "Christian Bale", "photo": "https://www.google.com/imgres?q=Christian%20Bale&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fmarvel_dc%2Fimages%2F1%2F1b%2FChristian_Bale_Mug_2.jpg%2Frevision%2Flatest%3Fcb%3D20190930215347&imgrefurl=https%3A%2F%2Fdc.fandom.com%2Fwiki%2FChristian_Bale&docid=AGWKcQpup08mNM&tbnid=fi4rnprwOaP34M&vet=12ahUKEwi6paHf-OOJAxWuSfEDHUazCmEQM3oECG0QAA..i&w=600&h=600&hcb=2&ved=2ahUKEwi6paHf-OOJAxWuSfEDHUazCmEQM3oECG0QAA" },
+      { "name": "Heath Ledger", "photo": "https://www.google.com/imgres?q=heath%20ledger&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fea%2FHeath_Ledger_%25282%2529.jpg&imgrefurl=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FHeath_Ledger&docid=jy6Ww5XWBWiIUM&tbnid=5EYBHu9XUJpblM&vet=12ahUKEwjhhMzr-OOJAxWFBdsEHdnoOMwQM3oECBYQAA..i&w=980&h=960&hcb=2&ved=2ahUKEwjhhMzr-OOJAxWFBdsEHdnoOMwQM3oECBYQAA" }
+    ],
+    "comments": [
+      { "user": "MovieBuff", "comment": "The best superhero movie ever!" },
+      { "user": "CinemaLover", "comment": "Heath Ledger's Joker is unforgettable!" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Shawshank Redemption",
+    "rating": 9.3,
+    "year": 1994,
+    "genre": "Drama",
+    "cast": [
+      { "name": "Tim Robbins", "photo": "https://www.google.com/imgres?q=Tim%20Robbins&imgurl=https%3A%2F%2Fresizing.flixster.com%2F-XZAfHZM39UwaGJIFWKAE8fS0ak%3D%2Fv3%2Ft%2Fassets%2F1473_v9_bc.jpg&imgrefurl=https%3A%2F%2Fwww.rottentomatoes.com%2Fcelebrity%2Ftim_robbins&docid=q56prnwMHtxh4M&tbnid=2GyzZaOnIi_rgM&vet=12ahUKEwiOjNr6-OOJAxWlZ_EDHaWGKUIQM3oECBcQAA..i&w=1080&h=1440&hcb=2&ved=2ahUKEwiOjNr6-OOJAxWlZ_EDHaWGKUIQM3oECBcQAA" },
+      { "name": "Morgan Freeman", "photo": "https://www.google.com/imgres?q=Morgan%20Freeman&imgurl=https%3A%2F%2Fim.showtv.com.tr%2F5%2F5628%2Fmorgan-freeman-500x500.png%3Fv%3D1517039440&imgrefurl=https%3A%2F%2Fwww.showtv.com.tr%2Foyuncu%2Fmorgan-freeman%2F5628&docid=_abGStcLdFiZvM&tbnid=ud325E3PFlAVpM&vet=12ahUKEwif2pKG-eOJAxXHR_EDHWuwCqgQM3oECHEQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwif2pKG-eOJAxXHR_EDHWuwCqgQM3oECHEQAA" }
+    ],
+    "comments": [
+      { "user": "FilmFan", "comment": "A masterpiece in storytelling!" },
+      { "user": "OldTimer", "comment": "A film about hope and friendship." }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "rating": 8.7,
+    "year": 1999,
+    "genre": "Action, Sci-Fi",
+    "cast": [
+      { "name": "Keanu Reeves", "photo": "https://www.google.com/imgres?q=Keanu%20reeves&imgurl=https%3A%2F%2Fcdn.britannica.com%2F11%2F215011-050-3127A07E%2FAmerican-actor-Keanu-Reeves-2014.jpg&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FKeanu-Reeves&docid=MRKaBxCIwHt65M&tbnid=M9wByZPO32x_tM&vet=12ahUKEwiNke2T-eOJAxWSSvEDHTUIG4UQM3oECG0QAA..i&w=1056&h=1506&hcb=2&ved=2ahUKEwiNke2T-eOJAxWSSvEDHTUIG4UQM3oECG0QAA" },
+      { "name": "Laurence Fishburne", "photo": "https://www.google.com/imgres?q=Laurence%20Fishburne&imgurl=https%3A%2F%2Fwww.emmys.com%2Fsites%2Fdefault%2Ffiles%2FLaurence-Fishburne-for-bio_0.jpg&imgrefurl=https%3A%2F%2Fwww.emmys.com%2Fbios%2Flaurence-fishburne&docid=2ns3dWVokm0bCM&tbnid=dY32QUPmOfj40M&vet=12ahUKEwiq5aed-eOJAxWkBtsEHUArCZkQM3oECEsQAA..i&w=450&h=600&hcb=2&ved=2ahUKEwiq5aed-eOJAxWkBtsEHUArCZkQM3oECEsQAA" }
+    ],
+    "comments": [
+      { "user": "Techie", "comment": "A revolutionary movie for its time!" },
+      { "user": "SciFiFan", "comment": "The concept of the matrix is genius!" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "rating": 8.8,
+    "year": 1994,
+    "genre": "Drama, Romance",
+    "cast": [
+      { "name": "Tom Hanks", "photo": "https://www.google.com/imgres?q=Tom%20Hanks&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa9%2FTom_Hanks_TIFF_2019.jpg%2F640px-Tom_Hanks_TIFF_2019.jpg&imgrefurl=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FTom_Hanks&docid=t2E2VeZ_yD-udM&tbnid=DL12jCMF0pWKoM&vet=12ahUKEwi2zv3M-eOJAxX7SfEDHdezA8UQM3oECBkQAA..i&w=640&h=890&hcb=2&ved=2ahUKEwi2zv3M-eOJAxX7SfEDHdezA8UQM3oECBkQAA" },
+      { "name": "Robin Wright", "photo": "https://www.google.com/imgres?q=Robin%20Wright&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd9%2FRobin_Wright_Cannes_2017_%2528cropped%2529.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRobin_Wright&docid=uPwqXLIHsbWQEM&tbnid=L4bl8r5qfX4IYM&vet=12ahUKEwjyhdrW-eOJAxUeQvEDHfE2ICQQM3oECB0QAA..i&w=373&h=497&hcb=2&ved=2ahUKEwjyhdrW-eOJAxUeQvEDHfE2ICQQM3oECB0QAA" }
+    ],
+    "comments": [
+      { "user": "Heartfelt", "comment": "A beautiful story about life." },
+      { "user": "MovieCritic", "comment": "Tom Hanks delivers an unforgettable performance!" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Fight Club",
+    "rating": 8.8,
+    "year": 1999,
+    "genre": "Drama",
+    "cast": [
+      { "name": "Brad Pitt", "photo": "https://www.google.com/imgres?q=brad%20pitt&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw%40%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000093%2F&docid=x4w5tJyLjHvvyM&tbnid=ComnAuPQidzGhM&vet=12ahUKEwj7xcjh-eOJAxWtQ_EDHQEGGSsQM3oECGsQAA..i&w=1363&h=2048&hcb=2&ved=2ahUKEwj7xcjh-eOJAxWtQ_EDHQEGGSsQM3oECGsQAA" },
+      { "name": "Edward Norton", "photo": "https://www.google.com/imgres?q=edward%20norton&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw%40%40._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001570%2F&docid=Sa3oeibVuIo-iM&tbnid=I2ux0vaHqbXMiM&vet=12ahUKEwi3q7Hp-eOJAxUKa_EDHbm2Fm8QM3oECGkQAA..i&w=1000&h=1282&hcb=2&ved=2ahUKEwi3q7Hp-eOJAxUKa_EDHbm2Fm8QM3oECGkQAA" }
+    ],
+    "comments": [
+      { "user": "Anonymous", "comment": "One of the most iconic films ever made!" },
+      { "user": "DeepThinker", "comment": "A film that makes you question everything." }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Avatar",
+    "rating": 7.8,
+    "year": 2009,
+    "genre": "Action, Adventure, Sci-Fi",
+    "cast": [
+      { "name": "Sam Worthington", "photo": "https://www.google.com/imgres?q=Sam%20worthington&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BODAwMTQ0Y2UtYmE0ZS00Mjc4LWExZTMtNTIzMjdmYTZlMTJkXkEyXkFqcGc%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0941777%2F&docid=oaav9BwFAxQQQM&tbnid=hASKffuFxhUy6M&vet=12ahUKEwiqtK74-eOJAxX5B9sEHciMNdIQM3oECGoQAA..i&w=567&h=800&hcb=2&ved=2ahUKEwiqtK74-eOJAxX5B9sEHciMNdIQM3oECGoQAA" },
+      { "name": "Zoe Saldana", "photo": "https://www.google.com/imgres?q=Zoe%20saldana&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMDFkMWQ5ZDItNGUzNS00YzI4LWIyOTctMDk0Mjc3MGQyZTYxXkEyXkFqcGc%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0757855%2F&docid=4W7Lp_yZFyvAeM&tbnid=wFtxrC_L7ulx1M&vet=12ahUKEwj07aOC-uOJAxUAQ_EDHXOxE0YQM3oECH8QAA..i&w=2244&h=2519&hcb=2&ved=2ahUKEwj07aOC-uOJAxUAQ_EDHXOxE0YQM3oECH8QAA" }
+    ],
+    "comments": [
+      { "user": "SciFiFanatic", "comment": "Visually stunning, but the story is predictable." },
+      { "user": "NatureLover", "comment": "A beautiful world full of imagination." }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Godfather",
+    "rating": 9.2,
+    "year": 1972,
+    "genre": "Crime, Drama",
+    "cast": [
+      { "name": "Marlon Brando", "photo": "https://www.google.com/imgres?q=marlon%20brando&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA%40%40._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000008%2F&docid=jM1ct3EDpCMEWM&tbnid=_7rZwICGX5D4bM&vet=12ahUKEwjfpMyN-uOJAxUESfEDHVyBEi0QM3oECGoQAA..i&w=1000&h=774&hcb=2&ved=2ahUKEwjfpMyN-uOJAxUESfEDHVyBEi0QM3oECGoQAA" },
+      { "name": "Al Pacino", "photo": "https://www.google.com/imgres?q=al%20pacino&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000199%2F&docid=YfSc7hVPe9CShM&tbnid=f3hASTqUSMZMYM&vet=12ahUKEwjG3ISa-uOJAxWQB9sEHaoLNaAQM3oECGQQAA..i&w=1000&h=1504&hcb=2&ved=2ahUKEwjG3ISa-uOJAxWQB9sEHaoLNaAQM3oECGQQAA" }
+    ],
+    "comments": [
+      { "user": "ClassicFilm", "comment": "The best crime drama ever made!" },
+      { "user": "MovieHistorian", "comment": "A cinematic masterpiece!" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Pulp Fiction",
+    "rating": 8.9,
+    "year": 1994,
+    "genre": "Crime, Drama",
+    "cast": [
+      { "name": "John Travolta", "photo": "https://www.google.com/imgres?q=john%20travolta&imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fgettyimages-498386018.jpg&imgrefurl=https%3A%2F%2Fwww.biography.com%2Factors%2Fjohn-travolta&docid=3mp1JwaXqFsEgM&tbnid=Juc_Ozt06WnKwM&vet=12ahUKEwjC_oaw-uOJAxXoSfEDHdhRDE0QM3oECGoQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwjC_oaw-uOJAxXoSfEDHdhRDE0QM3oECGoQAA" },
+      { "name": "Uma Thurman", "photo": "https://www.google.com/imgres?q=uma%20thurman&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjMxNzk1MTQyMl5BMl5BanBnXkFtZTgwMDIzMDEyMTE%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000235%2F&docid=VhdEgix83RXi_M&tbnid=p-0ydA050dRIdM&vet=12ahUKEwiRs-S9-uOJAxUWZ_EDHVRhFY0QM3oECBgQAA..i&w=1363&h=2048&hcb=2&ved=2ahUKEwiRs-S9-uOJAxUWZ_EDHVRhFY0QM3oECBgQAA" }
+    ],
+    "comments": [
+      { "user": "IndieFilmFan", "comment": "A groundbreaking movie in modern cinema!" },
+      { "user": "Cinephile", "comment": "Tarantino's best work, hands down!" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "The Lion King",
+    "rating": 8.5,
+    "year": 1994,
+    "genre": "Animation, Adventure, Drama",
+    "cast": [
+      { "name": "Matthew Broderick", "photo": "https://www.google.com/imgres?q=matthew%20broderick&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTg2NjA0MzM0OF5BMl5BanBnXkFtZTcwMDU5ODAxMw%40%40._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000111%2F&docid=wttDptgIWdwBqM&tbnid=0mooZQvnWuaqDM&vet=12ahUKEwjK9YvT-uOJAxXXXvEDHS2YCRoQM3oECGQQAA..i&w=1000&h=1246&hcb=2&ved=2ahUKEwjK9YvT-uOJAxXXXvEDHS2YCRoQM3oECGQQAA" },
+      { "name": "James Earl Jones", "photo": "https://www.google.com/imgres?q=james%20earl%20jones&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTcwNTg1MzMwM15BMl5BanBnXkFtZTcwNTQyMDgyMg%40%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000469%2F&docid=3SGUuqNKZOGPMM&tbnid=BJ2zH72rPsg14M&vet=12ahUKEwj8i-vd-uOJAxXAR_EDHdttFycQM3oECB0QAA..i&w=257&h=400&hcb=2&ved=2ahUKEwj8i-vd-uOJAxXAR_EDHdttFycQM3oECB0QAA" }
+    ],
+    "comments": [
+      { "user": "DisneyFan", "comment": "A timeless classic that will always make you cry." },
+      { "user": "FamilyFriendly", "comment": "The soundtrack and animation are iconic!" }
+    ]
+  }
+]
