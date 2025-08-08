@@ -1,0 +1,40 @@
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\bin\Debug\Ornek2020.exe.config
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\bin\Debug\Ornek2020.exe
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\bin\Debug\Ornek2020.pdb
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\bin\Debug\Tao.OpenGl.dll
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\bin\Debug\Tao.Platform.Windows.dll
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\bin\Debug\Tao.OpenGl.xml
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\bin\Debug\Tao.Platform.Windows.xml
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\obj\Debug\Ornek2020.csprojResolveAssemblyReference.cache
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\obj\Debug\Ornek2020.Form1.resources
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\obj\Debug\Ornek2020.Properties.Resources.resources
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\obj\Debug\Ornek2020.csproj.GenerateResource.Cache
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\obj\Debug\Ornek2020.exe
+c:\users\lenova\documents\visual studio 2015\Projects\Ornek2020\obj\Debug\Ornek2020.pdb
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\bin\Debug\Ornek2020.exe.config
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\obj\Debug\Ornek2020.exe
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\obj\Debug\Ornek2020.pdb
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\bin\Debug\Ornek2020.exe
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\bin\Debug\Ornek2020.pdb
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\bin\Debug\Tao.OpenGl.dll
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\bin\Debug\Tao.OpenGl.xml
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\obj\Debug\Ornek2020.csprojResolveAssemblyReference.cache
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\obj\Debug\Ornek2020.Form1.resources
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\obj\Debug\Ornek2020.Properties.Resources.resources
+C:\Users\lenova\Documents\Visual Studio 2015\Projects\TransformOrnek2020\obj\Debug\Ornek2020.csproj.GenerateResource.Cache
+C:\Users\msı\Downloads\TransformOrnek2020\bin\Debug\Ornek2020.exe.config
+C:\Users\msı\Downloads\TransformOrnek2020\bin\Debug\Ornek2020.exe
+C:\Users\msı\Downloads\TransformOrnek2020\bin\Debug\Ornek2020.pdb
+C:\Users\msı\Downloads\TransformOrnek2020\bin\Debug\Tao.OpenGl.dll
+C:\Users\msı\Downloads\TransformOrnek2020\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\msı\Downloads\TransformOrnek2020\bin\Debug\Tao.OpenGl.xml
+C:\Users\msı\Downloads\TransformOrnek2020\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\msı\Downloads\TransformOrnek2020\obj\Debug\Ornek2020.Form1.resources
+C:\Users\msı\Downloads\TransformOrnek2020\obj\Debug\Ornek2020.Properties.Resources.resources
+C:\Users\msı\Downloads\TransformOrnek2020\obj\Debug\Ornek2020.csproj.GenerateResource.cache
+C:\Users\msı\Downloads\TransformOrnek2020\obj\Debug\Ornek2020.csproj.CoreCompileInputs.cache
+C:\Users\msı\Downloads\TransformOrnek2020\obj\Debug\Ornek2020.csproj.CopyComplete
+C:\Users\msı\Downloads\TransformOrnek2020\obj\Debug\Ornek2020.exe
+C:\Users\msı\Downloads\TransformOrnek2020\obj\Debug\Ornek2020.pdb
